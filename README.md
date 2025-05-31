@@ -5,4 +5,4 @@ hello i am a studen at the event horizon school (2023/24)
 - :👥 i hope i'll be able to help/collaborate soon
 - 🏳️‍⚧️ Pronouns: she/her
 
-i am become world destroyer of man
+i am become om

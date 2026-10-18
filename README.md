@@ -1,8 +1,7 @@
 ### Hi there 👋
-hello i am a studen at the event horizon school (2023/24)
+i'm a newly graduate of Event Horizon school 
 
-- 🕵️  I’m currently learning unity/C#
-- :👥 i hope i'll be able to help/collaborate soon
-- 🏳️‍⚧️ Pronouns: she/her
+- 🕵️  i currently know C# and C++ 
+- 
 
 i am become om
